@@ -3,7 +3,7 @@ Advik_Edge
 **To initialize your local repository using the AOSP/CAF based Advik_Edge source, use a command like this:**
 
 ```bash
-https://github.com/onepiece2000/Advik_Edge
+repo init -u https://github.com/onepiece2000/Advik_Edge
 
 
 
